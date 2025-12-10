@@ -1,6 +1,6 @@
 # DMMD4SR: Diffusion Model-based Multi-level Multimodal Denoising for Sequential Recommendation
 
-This repository contains the code for our **anonymous** submission to **ACMMM 2025**.
+This repository contains the code for "DMMD4SR: Diffusion Model-based Multi-level Multimodal Denoising for Sequential Recommendation" (**ACMMM 2025**).
 
 ## Model Architecture
 
